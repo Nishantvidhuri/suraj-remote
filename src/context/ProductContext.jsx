@@ -17,6 +17,21 @@ const data = [
     "shelfNumber": "65",
     "image": "/photos/WILLET-CH-60_65.jpeg"
 },
+{
+    "name": "CHROMA",
+    "shelfNumber": "57",
+    "image": "/photos/CHROMA_57.jpeg"
+},
+{
+    "name": "CH 22",
+    "shelfNumber": "25",
+    "image": "/photos/CH-22_25.jpeg"
+},
+{
+    "name": "TCL LONG ",
+    "shelfNumber": "62",
+    "image": "/photos/TCL-LONG_62.jpeg"
+},
   {
       "name": "BPL 2",
       "shelfNumber": "67",
@@ -273,6 +288,16 @@ const data = [
       "image": "/photos/HAIER-SMART_74.jpeg"
   },
   {
+    "name": "HAIER NON VOICE",
+    "shelfNumber": "74",
+    "image": "/photos/HAIER-NON-VOICE_74.jpeg"
+},
+  {
+    "name": "HAIER",
+    "shelfNumber": "66",
+    "image": "/photos/HAIER_66.jpeg"
+},
+  {
       "name": "HAIER VOICE",
       "shelfNumber": "74",
       "image": "/photos/HAIER-VOICE_74.jpeg"
@@ -327,6 +352,21 @@ const data = [
       "shelfNumber": "46",
       "image": "/photos/KODAK-THOMSON_46.jpeg"
   },
+  {
+    "name": "THOMSON",
+    "shelfNumber": "46",
+    "image": "/photos/THOMSON_46.jpeg"
+},
+{
+    "name": "BPL CH 175",
+    "shelfNumber": "7",
+    "image": "/photos/CH-175_7.jpeg"
+},
+{
+    "name": "VU 11 ",
+    "shelfNumber": "77",
+    "image": "/photos/VU-11_77.jpeg"
+},
   {
       "name": "LE TV CH 271",
       "shelfNumber": "84",
