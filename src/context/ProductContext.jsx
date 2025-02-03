@@ -273,6 +273,11 @@ const data = [
       "image": "/photos/CH-93_6.jpeg"
   },
   {
+    "name": "PANASONIC BT",
+    "shelfNumber": "64",
+    "image": "/photos/Panasonic-bt_64.jpeg"
+},
+  {
       "name": "CHROMA CH 90",
       "shelfNumber": "57",
       "image": "/photos/CHROMA-CH-90_57.jpeg"
@@ -357,6 +362,17 @@ const data = [
     "shelfNumber": "46",
     "image": "/photos/THOMSON_46.jpeg"
 },
+{
+    "name": "CH 268 WITHOUT VOICE",
+    "shelfNumber": "15",
+    "image": "/photos/CH-268-WITHOUT-VOICE_15.jpeg"
+},
+{
+    "name": "SANSUI NOKIA SMART",
+    "shelfNumber": "48",
+    "image": "/photos/SANSUI-NOKIA-SMART_48.jpeg"
+},
+
 {
     "name": "BPL CH 175",
     "shelfNumber": "7",
