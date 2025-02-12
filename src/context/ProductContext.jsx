@@ -368,6 +368,15 @@ const data = [
     "image": "/photos/CH-268-WITHOUT-VOICE_15.jpeg"
 },
 {
+    "name": "ONEPLUS LONG",
+    "shelfNumber": "61",
+    "image": "/photos/ONEPLUS_61.jpeg"
+},{
+    "name": "CH 166",
+    "shelfNumber": "15",
+    "image": "/photos/CH-166_15.jpeg"
+},
+{
     "name": "SANSUI NOKIA SMART",
     "shelfNumber": "48",
     "image": "/photos/SANSUI-NOKIA-SMART_48.jpeg"
