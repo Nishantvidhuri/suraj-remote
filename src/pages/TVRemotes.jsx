@@ -5,8 +5,14 @@ import Card from "../components/Card";
 const TVRemotes = ({ searchQuery }) => {
   const { products } = useProductContext();
 
+  // Filter based on TV remotes (filter out AC remotes)
+  // TV remotes have images that contain "/photos/" in their paths
+  const tvRemotes = products.filter((remote) => 
+    remote.image.includes("/photos/")
+  );
+
   // Filter based on search query (if provided)
-  const filteredRemotes = products.filter((remote) =>
+  const filteredRemotes = tvRemotes.filter((remote) =>
     remote.name.toLowerCase().includes(searchQuery?.toLowerCase() || "")
   );
 
