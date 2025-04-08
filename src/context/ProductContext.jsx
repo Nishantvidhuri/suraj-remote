@@ -632,12 +632,7 @@ const data = [
       "shelfNumber": "47",
       "image": "/photos/VU-2_47.jpeg"
   }
-,
-{
-      "name": "vu",
-      "shelfNumber": "12",
-      "image": "/photos/vu_12.jpg"
-}];
+];
 const ProductContext = createContext();
 
 export const useProductContext = () => useContext(ProductContext);
