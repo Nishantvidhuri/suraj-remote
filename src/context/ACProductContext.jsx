@@ -1,9 +1,11 @@
 import React, { createContext, useContext, useState } from "react";
 
 // Initial AC Remotes Data Object
-const acData = [
-  
-];
+const acData = [{
+      "name": "Game",
+      "shelfNumber": "1503",
+      "image": "/acphoto/Game_1503.jpg"
+}];
 
 const ACProductContext = createContext();
 
