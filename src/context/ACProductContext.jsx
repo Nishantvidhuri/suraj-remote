@@ -165,6 +165,11 @@ const acData = [{
       "name": "Carrier 49",
       "shelfNumber": "11",
       "image": "/acphoto/Carrier-49_11.jpg"
+},
+{
+      "name": "Ifb 233",
+      "shelfNumber": "12",
+      "image": "/acphoto/Ifb-233_12.jpg"
 }];
 
 const ACProductContext = createContext();
