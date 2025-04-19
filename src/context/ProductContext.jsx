@@ -677,6 +677,11 @@ const data = [
       "name": "Intex",
       "shelfNumber": "44",
       "image": "/photos/Intex_44.jpg"
+},
+{
+      "name": "Intex",
+      "shelfNumber": "50",
+      "image": "/photos/Intex_50.jpg"
 }];
 const ProductContext = createContext();
 
