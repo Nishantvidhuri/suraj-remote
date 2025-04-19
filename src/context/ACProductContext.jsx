@@ -50,6 +50,11 @@ const acData = [{
       "name": "Voltas 9",
       "shelfNumber": "3",
       "image": "/acphoto/Voltas-9_3.jpg"
+},
+{
+      "name": "Voltas Onida 10",
+      "shelfNumber": "3",
+      "image": "/acphoto/Voltas-Onida-10_3.jpg"
 }];
 
 const ACProductContext = createContext();
