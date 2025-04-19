@@ -210,6 +210,11 @@ const acData = [{
       "name": "Bluestar 32",
       "shelfNumber": "16",
       "image": "/acphoto/Bluestar-32_16.jpg"
+},
+{
+      "name": "Bluestar 183",
+      "shelfNumber": "16",
+      "image": "/acphoto/Bluestar-183_16.jpg"
 }];
 
 const ACProductContext = createContext();
