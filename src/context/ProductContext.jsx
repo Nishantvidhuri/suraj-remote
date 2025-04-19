@@ -662,6 +662,11 @@ const data = [
       "name": "Mi",
       "shelfNumber": "42",
       "image": "/photos/Mi_42.jpg"
+},
+{
+      "name": "Ch 185",
+      "shelfNumber": "54",
+      "image": "/photos/Ch-185_54.jpg"
 }];
 const ProductContext = createContext();
 
