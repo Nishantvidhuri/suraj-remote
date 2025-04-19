@@ -667,6 +667,11 @@ const data = [
       "name": "Ch 185",
       "shelfNumber": "54",
       "image": "/photos/Ch-185_54.jpg"
+},
+{
+      "name": "Hyundai led 10",
+      "shelfNumber": "44",
+      "image": "/photos/Hyundai-led-10_44.jpg"
 }];
 const ProductContext = createContext();
 
