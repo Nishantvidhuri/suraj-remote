@@ -250,6 +250,11 @@ const acData = [{
       "name": "Samsung 39",
       "shelfNumber": "19",
       "image": "/acphoto/Samsung-39_19.jpg"
+},
+{
+      "name": "Azure 48",
+      "shelfNumber": "19",
+      "image": "/acphoto/Azure-48_19.jpg"
 }];
 
 const ACProductContext = createContext();
