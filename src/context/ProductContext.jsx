@@ -657,6 +657,11 @@ const data = [
       "name": "Tcl voice",
       "shelfNumber": "43",
       "image": "/photos/Tcl-voice_43.jpg"
+},
+{
+      "name": "Mi",
+      "shelfNumber": "42",
+      "image": "/photos/Mi_42.jpg"
 }];
 const ProductContext = createContext();
 
