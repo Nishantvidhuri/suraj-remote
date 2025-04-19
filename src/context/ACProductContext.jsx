@@ -145,6 +145,11 @@ const acData = [{
       "name": "Carrier voltas 45",
       "shelfNumber": "10",
       "image": "/acphoto/Carrier-voltas-45_10.jpg"
+},
+{
+      "name": "Carrier 168",
+      "shelfNumber": "10",
+      "image": "/acphoto/Carrier-168_10.jpg"
 }];
 
 const ACProductContext = createContext();
