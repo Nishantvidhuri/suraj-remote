@@ -15,6 +15,11 @@ const acData = [{
       "name": "Lg 15",
       "shelfNumber": "1",
       "image": "/acphoto/Lg-15_1.jpg"
+},
+{
+      "name": "Ac 14",
+      "shelfNumber": "1",
+      "image": "/acphoto/Ac-14_1.jpg"
 }];
 
 const ACProductContext = createContext();
