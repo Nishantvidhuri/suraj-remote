@@ -220,6 +220,11 @@ const acData = [{
       "name": "Videocon tcl 83",
       "shelfNumber": "17",
       "image": "/acphoto/Videocon-tcl-83_17.jpg"
+},
+{
+      "name": "Godrej",
+      "shelfNumber": "17",
+      "image": "/acphoto/Godrej_17.jpg"
 }];
 
 const ACProductContext = createContext();
