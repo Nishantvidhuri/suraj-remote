@@ -235,6 +235,11 @@ const acData = [{
       "name": "Samsung 38",
       "shelfNumber": "18",
       "image": "/acphoto/Samsung-38_18.jpg"
+},
+{
+      "name": "Daikin 78",
+      "shelfNumber": "19",
+      "image": "/acphoto/Daikin-78_19.jpg"
 }];
 
 const ACProductContext = createContext();
