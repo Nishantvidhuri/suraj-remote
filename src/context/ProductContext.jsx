@@ -632,7 +632,12 @@ const data = [
       "shelfNumber": "47",
       "image": "/photos/VU-2_47.jpeg"
   }
-];
+,
+{
+      "name": "Oneplus voice",
+      "shelfNumber": "24",
+      "image": "/photos/Oneplus-voice_24.jpg"
+}];
 const ProductContext = createContext();
 
 export const useProductContext = () => useContext(ProductContext);
