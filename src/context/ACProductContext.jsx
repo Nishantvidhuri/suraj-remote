@@ -110,6 +110,11 @@ const acData = [{
       "name": "Hitachi 157",
       "shelfNumber": "6",
       "image": "/acphoto/Hitachi-157_6.jpg"
+},
+{
+      "name": "Hitachi 20",
+      "shelfNumber": "6",
+      "image": "/acphoto/Hitachi-20_6.jpg"
 }];
 
 const ACProductContext = createContext();
