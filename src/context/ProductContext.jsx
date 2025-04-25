@@ -632,7 +632,62 @@ const data = [
       "shelfNumber": "47",
       "image": "/photos/VU-2_47.jpeg"
   }
-];
+,
+{
+      "name": "Oneplus voice",
+      "shelfNumber": "24",
+      "image": "/photos/Oneplus-voice_24.jpg"
+},
+{
+      "name": "Haier",
+      "shelfNumber": "34",
+      "image": "/photos/Haier_34.jpg"
+},
+{
+      "name": "Ch 153",
+      "shelfNumber": "31",
+      "image": "/photos/Ch-153_31.jpg"
+},
+{
+      "name": "Tcl",
+      "shelfNumber": "58",
+      "image": "/photos/Tcl_58.jpg"
+},
+{
+      "name": "Tcl voice",
+      "shelfNumber": "43",
+      "image": "/photos/Tcl-voice_43.jpg"
+},
+{
+      "name": "Mi",
+      "shelfNumber": "42",
+      "image": "/photos/Mi_42.jpg"
+},
+{
+      "name": "Ch 185",
+      "shelfNumber": "54",
+      "image": "/photos/Ch-185_54.jpg"
+},
+{
+      "name": "Hyundai led 10",
+      "shelfNumber": "44",
+      "image": "/photos/Hyundai-led-10_44.jpg"
+},
+{
+      "name": "Intex",
+      "shelfNumber": "44",
+      "image": "/photos/Intex_44.jpg"
+},
+{
+      "name": "Intex",
+      "shelfNumber": "50",
+      "image": "/photos/Intex_50.jpg"
+},
+{
+      "name": "Ch 69",
+      "shelfNumber": "49",
+      "image": "/photos/Ch-69_49.jpg"
+}];
 const ProductContext = createContext();
 
 export const useProductContext = () => useContext(ProductContext);
