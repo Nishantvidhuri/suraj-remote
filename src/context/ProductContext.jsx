@@ -687,11 +687,6 @@ const data = [
       "name": "Ch 69",
       "shelfNumber": "49",
       "image": "/photos/Ch-69_49.jpg"
-},
-{
-      "name": "png",
-      "shelfNumber": "10000",
-      "image": "/photos/png_10000.jpg"
 }];
 const ProductContext = createContext();
 
