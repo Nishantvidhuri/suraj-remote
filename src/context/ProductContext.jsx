@@ -687,7 +687,18 @@ const data = [
       "name": "Ch 69",
       "shelfNumber": "49",
       "image": "/photos/Ch-69_49.jpg"
-}];
+}
+,{
+    "name": "Ch 162",
+    "shelfNumber": "17",
+    "image": "/photos/Ch-162_17.jpg"
+},
+{
+    "name": "Lloyd reconnect led 12",
+    "shelfNumber": "33",
+    "image": "/photos/Lloyd-reconnect-led-12_33.jpg"
+}
+];
 const ProductContext = createContext();
 
 export const useProductContext = () => useContext(ProductContext);

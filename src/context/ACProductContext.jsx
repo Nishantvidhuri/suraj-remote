@@ -251,6 +251,242 @@ const acData = [
       "name": "Azure 48",
       "shelfNumber": "19",
       "image": "/acphoto/Azure-48_19.jpg"
+},
+{
+      "name": "Bluestar onida 65",
+      "shelfNumber": "20",
+      "image": "/acphoto/Bluestar-onida-65_20.jpg"
+},
+{
+      "name": "Daikin 296",
+      "shelfNumber": "20",
+      "image": "/acphoto/Daikin-296_20.jpg"
+}
+,
+{
+      "name": "Samsung 144",
+      "shelfNumber": "20",
+      "image": "/acphoto/Samsung-144_20.jpg"
+},
+{
+      "name": "Ketvinator",
+      "shelfNumber": "20",
+      "image": "/acphoto/Ketvinator_20.jpg"
+},
+{
+      "name": "Voltas 04",
+      "shelfNumber": "21",
+      "image": "/acphoto/Voltas-04_21.jpg"
+},
+{
+      "name": "Bluestar voltas 61",
+      "shelfNumber": "21",
+      "image": "/acphoto/Bluestar-voltas-61_21.jpg"
+},
+{
+      "name": "O general 95",
+      "shelfNumber": "22",
+      "image": "/acphoto/O-general-95_22.jpg"
+},
+{
+      "name": "O general 03",
+      "shelfNumber": "22",
+      "image": "/acphoto/O-general-03_22.jpg"
+},
+{
+      "name": "Ifb 110",
+      "shelfNumber": "23",
+      "image": "/acphoto/Ifb-110_23.jpg"
+},
+{
+      "name": "Godrej 221",
+      "shelfNumber": "23",
+      "image": "/acphoto/Godrej-221_23.jpg"
+},
+{
+      "name": "Whirlpool 25",
+      "shelfNumber": "24",
+      "image": "/acphoto/Whirlpool-25_24.jpg"
+},
+{
+      "name": "Whirlpool 175",
+      "shelfNumber": "25",
+      "image": "/acphoto/Whirlpool-175_25.jpg"
+},
+{
+      "name": "Whirlpool 287",
+      "shelfNumber": "25",
+      "image": "/acphoto/Whirlpool-287_25.jpg"
+},
+{
+      "name": "Whirlpool 24",
+      "shelfNumber": "26",
+      "image": "/acphoto/Whirlpool-24_26.jpg"
+},
+{
+      "name": "Whirlpool 73",
+      "shelfNumber": "26",
+      "image": "/acphoto/Whirlpool-73_26.jpg"
+},
+{
+      "name": "Whirlpool 108",
+      "shelfNumber": "26",
+      "image": "/acphoto/Whirlpool-108_26.jpg"
+},
+{
+      "name": "Whirlpool 102",
+      "shelfNumber": "27",
+      "image": "/acphoto/Whirlpool-102_27.jpg"
+},
+{
+      "name": "Whirlpool 218",
+      "shelfNumber": "27",
+      "image": "/acphoto/Whirlpool-218_27.jpg"
+},
+{
+      "name": "Mitsubishi 136",
+      "shelfNumber": "28",
+      "image": "/acphoto/Mitsubishi-136_28.jpg"
+},
+{
+      "name": "Haier 50",
+      "shelfNumber": "28",
+      "image": "/acphoto/Haier-50_28.jpg"
+},
+{
+      "name": "Haier 176",
+      "shelfNumber": "29",
+      "image": "/acphoto/Haier-176_29.jpg"
+},
+{
+      "name": "Haier 88",
+      "shelfNumber": "29",
+      "image": "/acphoto/Haier-88_29.jpg"
+},
+{
+      "name": "Videocon 156",
+      "shelfNumber": "30",
+      "image": "/acphoto/Videocon-156_30.jpg"
+},
+{
+      "name": "Ac 31 godrej",
+      "shelfNumber": "30",
+      "image": "/acphoto/Ac-31-godrej_30.jpg"
+},
+{
+      "name": "Azure 166",
+      "shelfNumber": "31",
+      "image": "/acphoto/Azure-166_31.jpg"
+},
+{
+      "name": "Daikin 212",
+      "shelfNumber": "31",
+      "image": "/acphoto/Daikin-212_31.jpg"
+},
+{
+      "name": "Hitachi 202",
+      "shelfNumber": "32",
+      "image": "/acphoto/Hitachi-202_32.jpg"
+},
+{
+      "name": "Nepolean 75",
+      "shelfNumber": "32",
+      "image": "/acphoto/Nepolean-75_32.jpg"
+},
+{
+      "name": "Godrej 227",
+      "shelfNumber": "32",
+      "image": "/acphoto/Godrej-227_32.jpg"
+},
+{
+      "name": "Voltas onida 11",
+      "shelfNumber": "33",
+      "image": "/acphoto/Voltas-onida-11_33.jpg"
+},
+{
+      "name": "Mitsubishi 115",
+      "shelfNumber": "33",
+      "image": "/acphoto/Mitsubishi-115_33.jpg"
+},
+{
+      "name": "Onida 42",
+      "shelfNumber": "34",
+      "image": "/acphoto/Onida-42_34.jpg"
+},
+{
+      "name": "Tcl 33",
+      "shelfNumber": "34",
+      "image": "/acphoto/Tcl-33_34.jpg"
+},
+{
+      "name": "Voltas 132",
+      "shelfNumber": "34",
+      "image": "/acphoto/Voltas-132_34.jpg"
+},
+{
+      "name": "Voltas 178",
+      "shelfNumber": "35",
+      "image": "/acphoto/Voltas-178_35.jpg"
+},
+{
+      "name": "Panasonic 138",
+      "shelfNumber": "36",
+      "image": "/acphoto/Panasonic-138_36.jpg"
+},
+{
+      "name": "Panasonic 58",
+      "shelfNumber": "36",
+      "image": "/acphoto/Panasonic-58_36.jpg"
+},
+{
+      "name": "Panasonic 179",
+      "shelfNumber": "36",
+      "image": "/acphoto/Panasonic-179_36.jpg"
+},
+{
+      "name": "Electrolux 28",
+      "shelfNumber": "37",
+      "image": "/acphoto/Electrolux-28_37.jpg"
+},
+{
+      "name": "Electrolux 27",
+      "shelfNumber": "37",
+      "image": "/acphoto/Electrolux-27_37.jpg"
+},
+{
+      "name": "Electrolux 26",
+      "shelfNumber": "37",
+      "image": "/acphoto/Electrolux-26_37.jpg"
+},
+{
+      "name": "Daikin 163",
+      "shelfNumber": "37",
+      "image": "/acphoto/Daikin-163_37.jpg"
+},
+{
+      "name": "Whirlpool 151",
+      "shelfNumber": "38",
+      "image": "/acphoto/Whirlpool-151_38.jpg"
+},
+{
+      "name": "Neuro 151",
+      "shelfNumber": "38",
+      "image": "/acphoto/Neuro-151_38.jpg"
+},
+{
+      "name": "Lg 93",
+      "shelfNumber": "38",
+      "image": "/acphoto/Lg-93_38.jpg"
+},
+{
+      "name": "Azure 34",
+      "shelfNumber": "38",
+      "image": "/acphoto/Azure-34_38.jpg"
+},
+{
+      "name": "Hitachi 111",
+      "shelfNumber": "39",
+      "image": "/acphoto/Hitachi-111_39.jpg"
 }];
 
 const ACProductContext = createContext();
