@@ -487,6 +487,141 @@ const acData = [
       "name": "Hitachi 111",
       "shelfNumber": "39",
       "image": "/acphoto/Hitachi-111_39.jpg"
+},
+{
+      "name": "Carrier 106",
+      "shelfNumber": "40",
+      "image": "/acphoto/Carrier-106_40.jpg"
+},
+{
+      "name": "Daikin",
+      "shelfNumber": "37",
+      "image": "/acphoto/Daikin_37.jpg"
+},
+{
+      "name": "Hitachi 203",
+      "shelfNumber": "40",
+      "image": "/acphoto/Hitachi-203_40.jpg"
+},
+{
+      "name": "Voltas 292",
+      "shelfNumber": "41",
+      "image": "/acphoto/Voltas-292_41.jpg"
+},
+{
+      "name": "Voltas 158",
+      "shelfNumber": "41",
+      "image": "/acphoto/Voltas-158_41.jpg"
+},
+{
+      "name": "Chroma marq 257",
+      "shelfNumber": "41",
+      "image": "/acphoto/Chroma-marq-257_41.jpg"
+},
+{
+      "name": "Bluestar 291",
+      "shelfNumber": "41",
+      "image": "/acphoto/Bluestar-291_41.jpg"
+},
+{
+      "name": "Fan remote",
+      "shelfNumber": "42",
+      "image": "/acphoto/Fan-remote_42.jpg"
+},
+{
+      "name": "Electrolux",
+      "shelfNumber": "42",
+      "image": "/acphoto/Electrolux_42.jpg"
+},
+{
+      "name": "Ac 14",
+      "shelfNumber": "42",
+      "image": "/acphoto/Ac-14_42.jpg"
+},
+{
+      "name": "Ac 298",
+      "shelfNumber": "43",
+      "image": "/acphoto/Ac-298_43.jpg"
+},
+{
+      "name": "Lg h cool",
+      "shelfNumber": "43",
+      "image": "/acphoto/Lg-h-cool_43.jpg"
+},
+{
+      "name": "Inverter Mac 125",
+      "shelfNumber": "35",
+      "image": "/acphoto/Inverter-Mac-125_35.jpg"
+},
+{
+      "name": "Lg 107 a",
+      "shelfNumber": "2",
+      "image": "/acphoto/Lg-107-a_2.jpg"
+},
+{
+      "name": "Chroma marq Ac 257",
+      "shelfNumber": "44",
+      "image": "/acphoto/Chroma-marq-Ac-257_44.jpg"
+},
+{
+      "name": "Lg Mac 77",
+      "shelfNumber": "44",
+      "image": "/acphoto/Lg-Mac-77_44.jpg"
+},
+{
+      "name": "Panasonic Ac 23",
+      "shelfNumber": "36",
+      "image": "/acphoto/Panasonic-Ac-23_36.jpg"
+},
+{
+      "name": "Ifb",
+      "shelfNumber": "44",
+      "image": "/acphoto/Ifb_44.jpg"
+},
+{
+      "name": "Ac 17 lg",
+      "shelfNumber": "17",
+      "image": "/acphoto/Ac-17-lg_17.jpg"
+},
+{
+      "name": "Bluestar Ac 291",
+      "shelfNumber": "12",
+      "image": "/acphoto/Bluestar-Ac-291_12.jpg"
+},
+{
+      "name": "Ifb ac 91",
+      "shelfNumber": "30",
+      "image": "/acphoto/Ifb-ac-91_30.jpg"
+},
+{
+      "name": "Bluestar ac 87",
+      "shelfNumber": "15",
+      "image": "/acphoto/Bluestar-ac-87_15.jpg"
+},
+{
+      "name": "162 50 in 1",
+      "shelfNumber": "29",
+      "image": "/acphoto/162-50-in-1_29.jpg"
+},
+{
+      "name": "O general 223",
+      "shelfNumber": "30",
+      "image": "/acphoto/O-general-223_30.jpg"
+},
+{
+      "name": "O general",
+      "shelfNumber": "42",
+      "image": "/acphoto/O-general_42.jpg"
+},
+{
+      "name": "Voltas 158",
+      "shelfNumber": "41",
+      "image": "/acphoto/Voltas-158_41.jpg"
+},
+{
+      "name": "Voltas 292",
+      "shelfNumber": "41",
+      "image": "/acphoto/Voltas-292_41.jpg"
 }];
 
 const ACProductContext = createContext();

@@ -484,8 +484,8 @@ const data = [
   },
   {
       "name": "ONE PLUS",
-      "shelfNumber": "61",
-      "image": "/photos/ONE-PLUS_61.jpeg"
+      "shelfNumber": "82",
+      "image": "/photos/ONE-PLUS_82.jpeg"
   },
   {
       "name": "ONIDA 1",
@@ -697,6 +697,11 @@ const data = [
     "name": "Lloyd reconnect led 12",
     "shelfNumber": "33",
     "image": "/photos/Lloyd-reconnect-led-12_33.jpg"
+},
+{
+      "name": "Fnd",
+      "shelfNumber": "36",
+      "image": "/photos/Fnd_36.jpg"
 }
 ];
 const ProductContext = createContext();
